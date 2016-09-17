@@ -1,2 +1,5 @@
 # XBUS-502-01.Data_Sources_Storage
-Materials for Georgetown Data Science certificate. http://scs.georgetown.edu/courses/1069/data-sources
+
+The workshops and demos for this course are listed below along with links to materials that exist for the demo/ workshop. For objectives of and prerequisites for this class, please see the course details. Slides are available in BlackBoard.
+
+
