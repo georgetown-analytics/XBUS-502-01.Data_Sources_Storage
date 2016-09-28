@@ -8,4 +8,7 @@ The workshops and demos for this course are listed below along with links to mat
 * [Into to SQL Joins Workshop](https://github.com/georgetown-analytics/XBUS-502-01.Data_Sources_Storage/tree/master/sql-tutorial)
 * [Extra practice: SQL Workshop](https://github.com/georgetown-analytics/XBUS-502-01.Data_Sources_Storage/tree/master/sql-workshop)
 
+**Day 2**
+
+* [MongoDB Tutorial](https://github.com/georgetown-analytics/XBUS-502-01.Data_Sources_Storage/tree/master/mongodb_tutorial)
 
