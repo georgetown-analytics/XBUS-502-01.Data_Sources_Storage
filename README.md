@@ -14,14 +14,14 @@ The workshops and demos for this course are listed below along with links to mat
 
 **Case Studies**
 
-When using the case studies, it is suggested that you create an environment for the case study and install the required packages to that environment. Case Studies have been tested in Python 2.7.
+When using the case studies, it is suggested that you create an environment for the case study and install the required packages to that environment. 
 
 * [Chirpy](https://github.com/georgetown-analytics/chirpy) Scripts to ingest twitter data into Mongo. A solution is available on the Mongo branch. 
 * [Baleen](https://github.com/bbengfort/baleen) Automated RSS import for NLP
 
 **Tutorial**
 
-When using the case studies, it is suggested that you create an environment for the case study and install the required packages to that environment. This tutorial has been tested in Python 2.7.
+When using the case studies, it is suggested that you create an environment for the case study and install the required packages to that environment. 
 
 * [Tribe](https://github.com/DistrictDataLabs/tribe)
 
